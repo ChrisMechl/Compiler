@@ -2,7 +2,7 @@ Compiler for simple programming language that supports ints. Lines prepended wit
 
 For examples of code and for testing, see ./Input\ texts
 
-To build: javac *.java
+To build: javac Main.java
 To run: java Main <input text file>
 
 This will create a .smp file of the same name as the input file that contains the binary bytestream that can be used as input to the interpreter.
